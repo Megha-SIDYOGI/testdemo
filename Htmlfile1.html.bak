@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Student Registration Form</title>
+<title>Student Registration Form STUDY ECART</title>
 </head>
 <body>
 <form>
@@ -11,6 +11,22 @@ First Name :
 </td>
 <td>
 <input type="name" placeholder="Name" name="">
+</td>
+</tr>
+<tr>
+<td>
+Last Name :
+</td>
+<td>
+<input type="name" placeholder="Name" name="">
+</td>
+</tr>
+<tr>
+<td>
+Alternative Number :
+</td>
+<td>
+<input type="name" placeholder="Phone Number" name="">
 </td>
 </tr>
 <tr>
